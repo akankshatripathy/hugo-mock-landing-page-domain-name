@@ -1,6 +1,6 @@
 ---
-title: "Markdown Cheat Sheet Ⓜ️⬇️"
-description: "An overview of basic markdown syntax."
+title: "Purpose"
+description: "An overview of our mission"
 draft: false
 tags: ["Featured"]
 images: ["markdown-guide-og.jpg"]
@@ -9,7 +9,7 @@ aliases:
   - blog/my-third-blog-post
 ---
 
-# Markdown Cheat Sheet
+# Pothole Pros - Our Mission
 
 Hugo has excellent Markdown support out of the box. By default, Hugo uses the [Goldmark Markdown processor](https://github.com/yuin/goldmark/) which is fully CommonMark-compliant. See the [configuration instructions](https://gohugo.io/getting-started/configuration-markup/) to learn more about the extensions you can configure.
 
